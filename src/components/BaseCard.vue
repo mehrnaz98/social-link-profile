@@ -6,7 +6,7 @@
       <img
         src="../assets/images/avatar-jessica.jpeg"
         alt="Profile picture"
-        class="w-16 h-auto"
+        class="w-[75px] h-auto border-none rounded-full"
       />
       <h2 class="font-bold text-[#D3D3D3] text-xl pt-7">Jessica Randall</h2>
       <p class="text-[#BBD37B] text-xs font-semibold pt-1">
