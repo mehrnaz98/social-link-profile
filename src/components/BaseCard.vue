@@ -1,6 +1,6 @@
 <template>
   <section
-    class="font-inter border w-[350px] h-[510px] flex flex-col justify-center items-center"
+    class="font-inter border w-[350px] h-[510px] flex flex-col justify-center items-center text-center"
   >
     <div>
       <img src="../assets/images/avatar-jessica.jpeg" alt="" />
