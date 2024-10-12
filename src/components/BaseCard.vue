@@ -14,11 +14,11 @@
       </p>
 
       <p class="text-[#B7B7B7] text-xs pt-5">
-        "Front-end developer and reader."
+        "Front-end developer and avid reader."
       </p>
     </div>
 
-    <div class="flex flex-col space-y-3 pt-4">
+    <div class="flex flex-col space-y-3 pt-5">
       <button
         class="bg-[#333333] w-[250px] h-[35px] text-xs font-semibold text-[#D3D3D3] border-none rounded-md"
       >
