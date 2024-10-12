@@ -1,5 +1,5 @@
 <template>
-  <section class="font-inter">
+  <section class="font-inter border w-[350px] h-[510px]">
     <div>
       <img src="" alt="" />
       <h2 class="font-bold">Jessica Randall</h2>
