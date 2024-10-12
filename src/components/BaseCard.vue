@@ -14,7 +14,7 @@
       <p>"Front-end developer and reader."</p>
     </div>
 
-    <div class="flex flex-col">
+    <div class="flex flex-col space-y-3 pt-4">
       <button
         class="bg-[#333333] w-[250px] h-[35px] text-xs font-semibold text-[#D3D3D3] border-none rounded-md"
       >
