@@ -8,7 +8,7 @@
         alt="Profile picture"
         class="w-16 h-auto"
       />
-      <h2 class="font-bold">Jessica Randall</h2>
+      <h2 class="font-bold text-[#D3D3D3] text-xl">Jessica Randall</h2>
       <p class="text-[#BBD37B] text-xs font-semibold pt-1">
         London, United Kingdom
       </p>
