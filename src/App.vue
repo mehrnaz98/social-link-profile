@@ -1,3 +1,7 @@
-<template></template>
+<template>
+  <BaseCard />
+</template>
 
-<script setup></script>
+<script setup>
+import BaseCard from "./components/BaseCard.vue";
+</script>
