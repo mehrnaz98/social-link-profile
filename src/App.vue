@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center items-center h-screen">
+  <div class="flex justify-center items-center h-screen bg-[#141414]">
     <BaseCard />
   </div>
 </template>
