@@ -1,5 +1,7 @@
 <template>
-  <section class="font-inter border w-[350px] h-[510px]">
+  <section
+    class="font-inter border w-[350px] h-[510px] flex flex-col justify-center items-center"
+  >
     <div>
       <img src="" alt="" />
       <h2 class="font-bold">Jessica Randall</h2>
