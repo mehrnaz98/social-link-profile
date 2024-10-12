@@ -3,7 +3,7 @@
     class="font-inter border w-[350px] h-[510px] flex flex-col justify-center items-center"
   >
     <div>
-      <img src="" alt="" />
+      <img src="../assets/images/avatar-jessica.jpeg" alt="" />
       <h2 class="font-bold">Jessica Randall</h2>
       <p>London, United Kingdom</p>
 
