@@ -15,11 +15,31 @@
     </div>
 
     <div class="flex flex-col">
-      <button>GitHub</button>
-      <button>Frontend Mentor</button>
-      <button>LinkedIn</button>
-      <button>Twitter</button>
-      <button>Instagram</button>
+      <button
+        class="bg-[#333333] w-[250px] h-[35px] text-xs font-semibold text-[#D3D3D3] border-none rounded-md"
+      >
+        GitHub
+      </button>
+      <button
+        class="bg-[#333333] w-[250px] h-[35px] text-xs font-semibold text-[#D3D3D3] border-none rounded-md"
+      >
+        Frontend Mentor
+      </button>
+      <button
+        class="bg-[#333333] w-[250px] h-[35px] text-xs font-semibold text-[#D3D3D3] border-none rounded-md"
+      >
+        LinkedIn
+      </button>
+      <button
+        class="bg-[#333333] w-[250px] h-[35px] text-xs font-semibold text-[#D3D3D3] border-none rounded-md"
+      >
+        Twitter
+      </button>
+      <button
+        class="bg-[#333333] w-[250px] h-[35px] text-xs font-semibold text-[#D3D3D3] border-none rounded-md"
+      >
+        Instagram
+      </button>
     </div>
   </section>
 </template>
