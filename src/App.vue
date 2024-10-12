@@ -1,5 +1,7 @@
 <template>
-  <BaseCard />
+  <div class="flex justify-center items-center h-screen">
+    <BaseCard />
+  </div>
 </template>
 
 <script setup>
