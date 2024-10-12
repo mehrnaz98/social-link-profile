@@ -2,7 +2,7 @@
   <section class="font-inter">
     <div>
       <img src="" alt="" />
-      <h2>Jessica Randall</h2>
+      <h2 class="font-bold">Jessica Randall</h2>
       <p>London, United Kingdom</p>
 
       <p>"Front-end developer and reader."</p>
