@@ -10,7 +10,7 @@
       <p>"Front-end developer and reader."</p>
     </div>
 
-    <div>
+    <div class="flex flex-col">
       <button>GitHub</button>
       <button>Frontend Mentor</button>
       <button>LinkedIn</button>
