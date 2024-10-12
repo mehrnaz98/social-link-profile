@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="font-inter">
     <div>
       <img src="" alt="" />
       <h2>Jessica Randall</h2>
