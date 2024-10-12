@@ -11,7 +11,9 @@
       <h2 class="font-bold">Jessica Randall</h2>
       <p>London, United Kingdom</p>
 
-      <p class="text-[#B7B7B7] text-xs">"Front-end developer and reader."</p>
+      <p class="text-[#B7B7B7] text-xs pt-5">
+        "Front-end developer and reader."
+      </p>
     </div>
 
     <div class="flex flex-col space-y-3 pt-4">
