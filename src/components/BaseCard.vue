@@ -9,7 +9,9 @@
         class="w-16 h-auto"
       />
       <h2 class="font-bold">Jessica Randall</h2>
-      <p>London, United Kingdom</p>
+      <p class="text-[#BBD37B] text-xs font-semibold pt-1">
+        London, United Kingdom
+      </p>
 
       <p class="text-[#B7B7B7] text-xs pt-5">
         "Front-end developer and reader."
