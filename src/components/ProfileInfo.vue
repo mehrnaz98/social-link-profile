@@ -1,5 +1,5 @@
 <template>
-  <section class="flex flex-col justify-center items-center">
+  <section>
     <div v-if="user">
       <img
         :src="user.avatar_url"
