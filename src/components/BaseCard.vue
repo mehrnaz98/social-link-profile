@@ -22,10 +22,16 @@ import BaseButton from "./BaseButton.vue";
 import ProfileInfo from "./ProfileInfo.vue";
 
 const buttons = ref([
-  "GitHub",
-  "Frontend Mentor",
-  "LinkedIn",
-  "Twitter",
-  "Instagram",
+  { name: "GitHub", url: "https://github.com/mehrnaz98" },
+  {
+    name: "Frontend Mentor",
+    url: "https://www.frontendmentor.io/profile/mehrnaz98",
+  },
+  {
+    name: "LinkedIn",
+    url: "https://www.linkedin.com/in/mehrnaz-eftekhari-4a401122b",
+  },
+  { name: "Twitter", url: "https://twitter.com" },
+  { name: "Instagram", url: "https://www.instagram.com" },
 ]);
 </script>
