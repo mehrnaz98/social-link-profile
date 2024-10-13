@@ -20,7 +20,7 @@
       <img
         src="../assets/images/image.jpg"
         alt="user profile photo"
-        class="w-[75px] h-auto border-none rounded-full m-auto -mb-3"
+        class="w-[88px] h-auto border-none rounded-full m-auto -mb-3"
       />
       <h2 class="font-semibold text-[#D9D9D9] text-2xl pt-7">
         Mehrnaz Eftekhari
