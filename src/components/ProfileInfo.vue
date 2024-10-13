@@ -16,17 +16,20 @@
 
     <div v-else>
       <img
-        src="../assets/images/avatar-jessica.jpeg"
+        src="../assets/images/image.jpg"
         alt="user profile photo"
-        class="w-[75px] h-auto border-none rounded-full m-auto"
+        class="w-[75px] h-auto border-none rounded-full m-auto -mb-3"
       />
-      <h2 class="font-semibold text-[#D3D3D3] text-xl pt-7">Jessica Randall</h2>
+      <h2 class="font-semibold text-[#D3D3D3] text-xl pt-7">
+        Mehrnaz Eftekhari
+      </h2>
       <p class="text-[#BBD37B] text-xs font-semibold pt-1">
-        London, United Kingdom
+        Rasht, Guilan, Iran
       </p>
 
-      <p class="text-[#B7B7B7] text-xs pt-5">
-        "Front-end developer and avid reader."
+      <p class="text-[#B7B7B7] text-xs pt-5 px-4">
+        "Mechanical Engineer and Designer;Translator and Content
+        Creator;Aspiring Frontend Developer."
       </p>
     </div>
   </section>
