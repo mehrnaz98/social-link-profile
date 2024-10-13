@@ -39,7 +39,7 @@ const props = defineProps({
   username: { type: String, required: true },
 });
 
-const user = ref();
+const user = ref(null);
 
 fetch(`https://api.github.com/users/${props.username}`).then(async (res) => {
   const data = await res.json();
