@@ -11,7 +11,7 @@
         {{ user.location }}
       </p>
 
-      <p class="text-[#B7B7B7] text-xs pt-5">"{{ user.bio }}"</p>
+      <p class="text-[#B7B7B7] text-xs pt-5 px-4">"{{ user.bio }}"</p>
     </div>
 
     <div v-else>
