@@ -7,7 +7,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [View solution on GitHub](https://github.com/mehrnaz98/social-link-profile.git)
-- Live Site URL: [View on Netlify]()
+- Live Site URL: [View on Netlify](https://enchanting-empanada-d6fe0a.netlify.app/)
 
 ### Screenshot
 
