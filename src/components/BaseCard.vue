@@ -2,8 +2,10 @@
   <section
     class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:w-[310px] h-[490px] w-[280px] flex flex-col justify-center items-center text-center"
   >
-    <profile-info username="mehrnaz98"></profile-info>
-    <BaseButton />
+    <div class="flex flex-col justify-center items-center">
+      <profile-info username="mehrnaz98"></profile-info>
+    </div>
+
     <div class="flex flex-col space-y-3 pt-5 justify-center items-center">
       <base-button v-for="(button, index) in buttons" :key="index">{{
         button
