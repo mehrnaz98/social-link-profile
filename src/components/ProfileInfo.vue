@@ -6,8 +6,10 @@
         alt="user profile photo"
         class="w-[88px] h-auto border-none rounded-full m-auto -mb-3"
       />
-      <h2 class="font-semibold text-[#D9D9D9] text-xl pt-7">{{ user.name }}</h2>
-      <p class="text-[#BBD37B] text-xs font-semibold pt-1">
+      <h2 class="font-semibold text-[#D9D9D9] text-2xl pt-7">
+        {{ user.name }}
+      </h2>
+      <p class="text-[#BBD37B] text-[14px] font-semibold pt-1">
         {{ user.location }}
       </p>
 
