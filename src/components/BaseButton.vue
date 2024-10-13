@@ -1,6 +1,6 @@
 <template>
   <a
-    class="flex justify-center items-center bg-[#333333] sm:w-[250px] h-[35px] w-[235px] text-xs font-semibold text-[#D9D9D9] border-none rounded-md hover:bg-[#C4F82A] transition-color duration-200 hover:text-[#1F1F1F]"
+    class="flex justify-center items-center bg-[#333333] sm:w-[250px] h-[35px] w-[235px] text-xs font-semibold text-[#D9D9D9] border-none rounded-md hover:bg-[#C4F82A] transition-color duration-200 hover:text-[#1F1F1F] focus:outline-none focus:ring focus:ring-[#BBD37B]"
     :href="url"
     target="_blank"
     rel="noopener noreferrer"
