@@ -9,9 +9,12 @@
     <div
       class="flex flex-col space-y-3 pt-5 justify-center items-center hover:cursor-pointer"
     >
-      <base-button v-for="(button, index) in buttons" :key="index">{{
-        button
-      }}</base-button>
+      <base-button
+        v-for="(button, index) in buttons"
+        :key="index"
+        :url="button.url"
+        >{{ button.name }}</base-button
+      >
     </div>
   </section>
 </template>
