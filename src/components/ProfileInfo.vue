@@ -18,4 +18,8 @@
 
 <script setup>
 import { ref } from "vue";
+
+const props = defineProps({
+  username: { type: String, required: true },
+});
 </script>
