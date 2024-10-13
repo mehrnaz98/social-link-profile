@@ -41,8 +41,16 @@ const props = defineProps({
 
 const user = ref(null);
 
-fetch(`https://api.github.com/users/${props.username}`).then(async (res) => {
-  const data = await res.json();
-  user.value = data;
-});
+fetch(`https://api.github.com/users/${props.username}`)
+  .then(async (res) => {
+    if (res.ok) {
+      const data = await res.json();
+      user.value = data;
+    } else {
+      user.value = null;
+    }
+  })
+  .catch(() => {
+    user.value = null;
+  });
 </script>
