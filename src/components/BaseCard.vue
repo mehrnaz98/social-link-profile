@@ -1,6 +1,6 @@
 <template>
   <section
-    class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:w-[390px] h-[auto] w-[275px] sm:py-7 py-5 flex flex-col justify-center items-center text-center"
+    class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:w-[390px] h-[auto] w-[275px] sm:py-10 py-5 flex flex-col justify-center items-center text-center"
   >
     <div class="flex flex-col justify-center items-center">
       <profile-info username="mehrnaz98"></profile-info>
