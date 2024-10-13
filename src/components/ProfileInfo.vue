@@ -28,8 +28,8 @@
       </p>
 
       <p class="text-[#B7B7B7] text-xs pt-5 px-4">
-        "Mechanical Engineer and Designer;Translator and Content
-        Creator;Aspiring Frontend Developer."
+        "Mechanical Engineer and Designer; Translator and Content Creator;
+        Aspiring Frontend Developer."
       </p>
     </div>
   </section>
