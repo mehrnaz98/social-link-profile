@@ -3,7 +3,9 @@
     class="relative flex flex-col justify-center items-center h-screen bg-[#141414]"
   >
     <BaseCard />
-    <div class="absolute bottom-3 text-[#D9D9D9] text-xs">
+    <div
+      class="absolute bottom-3 text-[#D9D9D9] sm:text-xs text-[10px] text-center"
+    >
       Challenge by
       <a
         href="https://www.frontendmentor.io?ref=challenge"
