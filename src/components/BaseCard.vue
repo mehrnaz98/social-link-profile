@@ -4,6 +4,11 @@
   >
     <profile-info username="mehrnaz98"></profile-info>
     <BaseButton />
+    <div class="flex flex-col space-y-3 pt-5 justify-center items-center">
+      <base-button v-for="(button, index) in buttons" :key="index">{{
+        button
+      }}</base-button>
+    </div>
   </section>
 </template>
 
