@@ -9,7 +9,7 @@
       <h2 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
         {{ user.name }}
       </h2>
-      <p class="text-[#BBD37B] text-[14px] font-semibold pt-1">
+      <p class="text-[#c5f82a] text-[14px] font-semibold pt-1">
         {{ user.location }}
       </p>
 
@@ -25,7 +25,7 @@
       <h2 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
         Mehrnaz Eftekhari
       </h2>
-      <p class="text-[#BBD37B] text-[14px] font-semibold pt-1">
+      <p class="text-[#c5f82a] text-[14px] font-semibold pt-1">
         Rasht, Guilan, Iran
       </p>
 
