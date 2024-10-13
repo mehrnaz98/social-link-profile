@@ -18,7 +18,7 @@
       </p>
     </div>
 
-    <div class="flex flex-col space-y-3 pt-5">
+    <div class="flex flex-col space-y-3 pt-5 justify-center items-center">
       <button
         class="bg-[#333333] w-[250px] h-[35px] text-xs font-semibold text-[#D3D3D3] border-none rounded-md"
       >
