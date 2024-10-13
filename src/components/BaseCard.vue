@@ -8,6 +8,7 @@
 </template>
 
 <script setup>
+import { ref } from "vue";
 import BaseButton from "./BaseButton.vue";
 import ProfileInfo from "./ProfileInfo.vue";
 </script>
