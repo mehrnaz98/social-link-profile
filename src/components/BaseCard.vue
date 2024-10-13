@@ -1,6 +1,6 @@
 <template>
   <section
-    class="bg-[#1F1F1F] font-inter border-none rounded-lg w-[310px] h-[490px] flex flex-col justify-center items-center text-center"
+    class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:w-[310px] h-[490px] w-[280px] flex flex-col justify-center items-center text-center"
   >
     <div class="flex flex-col justify-center items-center">
       <img
