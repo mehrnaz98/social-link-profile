@@ -3,15 +3,11 @@
     class="flex flex-col justify-center items-center min-h-screen bg-[#141414]"
   >
     <main
-      class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:w-[390px] h-[auto] w-[350px] sm:py-9 py-7 flex flex-col justify-center items-center text-center"
+      class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:w-[390px] w-[350px] sm:py-9 py-7 flex flex-col items-center text-center"
     >
-      <div class="flex flex-col justify-center items-center">
-        <profile-info username="mehrnaz98"></profile-info>
-      </div>
+      <profile-info username="mehrnaz98"></profile-info>
 
-      <ul
-        class="flex flex-col space-y-4 pt-5 justify-center items-center hover:cursor-pointer"
-      >
+      <ul class="flex flex-col space-y-4 pt-5">
         <li v-for="(button, index) in buttons" :key="index">
           <base-button :url="button.url">{{ button.name }}</base-button>
         </li>
