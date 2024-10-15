@@ -6,9 +6,9 @@
         alt="user profile photo"
         class="w-[88px] h-auto border-none rounded-full m-auto -mb-3"
       />
-      <h2 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
+      <h1 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
         {{ user.name }}
-      </h2>
+      </h1>
       <p class="text-[#BBD37B] text-[14px] font-semibold pt-1">
         {{ user.location }}
       </p>
@@ -22,9 +22,9 @@
         alt="user profile photo"
         class="w-[88px] h-auto border-none rounded-full m-auto -mb-3"
       />
-      <h2 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
+      <h1 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
         Mehrnaz Eftekhari
-      </h2>
+      </h1>
       <p class="text-[#BBD37B] text-[14px] font-semibold pt-1">
         Rasht, Gilan, Iran
       </p>
