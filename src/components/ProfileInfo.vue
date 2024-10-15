@@ -9,10 +9,10 @@
       <h1 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
         {{ user.name }}
       </h1>
-      <p class="text-[#BBD37B] text-[14px] font-semibold pt-1">
+      <p class="text-[#BBD37B] text-[0.9rem] font-semibold mt-1">
         {{ user.location }}
       </p>
-      <p class="text-[#B7B7B7] text-[14px] pt-5 px-4">"{{ user.bio }}"</p>
+      <p class="text-[#B7B7B7] text-[0.9rem] mt-5 mx-4">"{{ user.bio }}"</p>
     </div>
 
     <div v-else>
@@ -21,13 +21,13 @@
         alt="user profile photo"
         class="w-[5.5rem] h-[5.5rem] rounded-full m-auto -mb-3"
       />
-      <h1 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
+      <h1 class="font-semibold text-[#D9D9D9] text-2xl mt-9">
         Mehrnaz Eftekhari
       </h1>
-      <p class="text-[#BBD37B] text-[14px] font-semibold pt-1">
+      <p class="text-[#BBD37B] text-[0.9rem] font-semibold mt-1">
         Rasht, Gilan, Iran
       </p>
-      <p class="text-[#B7B7B7] text-[14px] pt-5 px-4">
+      <p class="text-[#B7B7B7] text-[0.9rem] mt-5 mx-4">
         "Mechanical Engineer and Designer; Translator and Content Creator;
         Aspiring Frontend Developer."
       </p>
