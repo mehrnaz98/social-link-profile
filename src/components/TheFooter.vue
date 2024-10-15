@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div
-      class="text-[#D9D9D9] sm:text-xs text-[10px] text-center bg-[#141414] py-3"
+      class="text-[#D9D9D9] sm:text-xs text-[0.6rem] text-center bg-[#141414] py-3"
     >
       Challenge by
       <a
