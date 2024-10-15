@@ -4,6 +4,7 @@
     :href="url"
     target="_blank"
     rel="noopener noreferrer"
+    title="Opens in a new tab"
   >
     <slot></slot>
   </a>
