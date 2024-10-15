@@ -9,16 +9,13 @@
         <profile-info username="mehrnaz98"></profile-info>
       </div>
 
-      <div
+      <ul
         class="flex flex-col space-y-4 pt-5 justify-center items-center hover:cursor-pointer"
       >
-        <base-button
-          v-for="(button, index) in buttons"
-          :key="index"
-          :url="button.url"
-          >{{ button.name }}</base-button
-        >
-      </div>
+        <li v-for="(button, index) in buttons" :key="index">
+          <base-button :url="button.url">{{ button.name }}</base-button>
+        </li>
+      </ul>
     </main>
   </section>
 </template>
