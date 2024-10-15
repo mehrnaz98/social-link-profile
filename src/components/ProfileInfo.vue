@@ -26,7 +26,7 @@
         Mehrnaz Eftekhari
       </h2>
       <p class="text-[#BBD37B] text-[14px] font-semibold pt-1">
-        Rasht, Guilan, Iran
+        Rasht, Gilan, Iran
       </p>
 
       <p class="text-[#B7B7B7] text-[14px] pt-5 px-4">
