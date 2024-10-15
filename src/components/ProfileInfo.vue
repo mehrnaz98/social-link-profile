@@ -4,7 +4,7 @@
       <img
         :src="user.avatar_url"
         alt="user profile photo"
-        class="w-[88px] rounded-full m-auto -mb-3"
+        class="w-[5.5rem] h-[5.5rem] rounded-full m-auto -mb-3"
       />
       <h1 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
         {{ user.name }}
@@ -19,7 +19,7 @@
       <img
         src="../assets/images/image.jpg"
         alt="user profile photo"
-        class="w-[88px] rounded-full m-auto -mb-3"
+        class="w-[5.5rem] h-[5.5rem] rounded-full m-auto -mb-3"
       />
       <h1 class="font-semibold text-[#D9D9D9] text-2xl pt-9">
         Mehrnaz Eftekhari
