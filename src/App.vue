@@ -1,6 +1,5 @@
 <template>
   <BaseCard />
-
   <TheFooter />
 </template>
 
