@@ -1,19 +1,15 @@
 <template>
-  <section
-    class="flex flex-col justify-center items-center w-[100%] min-h-screen bg-[#141414]"
+  <main
+    class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:min-w-[24.4rem] w-[21.9rem] sm:py-9 py-7 flex flex-col items-center text-center"
   >
-    <main
-      class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:min-w-[24.4rem] w-[21.9rem] sm:py-9 py-7 flex flex-col items-center text-center"
-    >
-      <profile-info username="mehrnaz98"></profile-info>
+    <profile-info username="mehrnaz98"></profile-info>
 
-      <ul class="flex flex-col space-y-4 pt-5">
-        <li v-for="(button, index) in buttons" :key="index">
-          <base-button :url="button.url">{{ button.name }}</base-button>
-        </li>
-      </ul>
-    </main>
-  </section>
+    <ul class="flex flex-col space-y-4 pt-5">
+      <li v-for="(button, index) in buttons" :key="index">
+        <base-button :url="button.url">{{ button.name }}</base-button>
+      </li>
+    </ul>
+  </main>
 </template>
 
 <script setup>
