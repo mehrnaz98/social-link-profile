@@ -1,21 +1,25 @@
 <template>
   <section
-    class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:w-[390px] h-[auto] w-[350px] sm:py-9 py-7 flex flex-col justify-center items-center text-center"
+    class="flex flex-col justify-center items-center min-h-screen bg-[#141414]"
   >
-    <div class="flex flex-col justify-center items-center">
-      <profile-info username="mehrnaz98"></profile-info>
-    </div>
-
-    <div
-      class="flex flex-col space-y-4 pt-5 justify-center items-center hover:cursor-pointer"
+    <main
+      class="bg-[#1F1F1F] font-inter border-none rounded-lg sm:w-[390px] h-[auto] w-[350px] sm:py-9 py-7 flex flex-col justify-center items-center text-center"
     >
-      <base-button
-        v-for="(button, index) in buttons"
-        :key="index"
-        :url="button.url"
-        >{{ button.name }}</base-button
+      <div class="flex flex-col justify-center items-center">
+        <profile-info username="mehrnaz98"></profile-info>
+      </div>
+
+      <div
+        class="flex flex-col space-y-4 pt-5 justify-center items-center hover:cursor-pointer"
       >
-    </div>
+        <base-button
+          v-for="(button, index) in buttons"
+          :key="index"
+          :url="button.url"
+          >{{ button.name }}</base-button
+        >
+      </div>
+    </main>
   </section>
 </template>
 
